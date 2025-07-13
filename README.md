@@ -25,9 +25,12 @@
 ## 🛠️ Installation
 
 ```bash
+pkg install python3 
 git clone https://github.com/ADIRTTA/SUB-FINDER.git
 cd SUB-FINDER
+chmod +x*
 pip install -r requirements.txt
+python3 sub-finder.py
 ````
 
 Or install manually:
