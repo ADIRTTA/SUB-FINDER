@@ -41,6 +41,18 @@ pip install requests rich
 
 ---
 
+## ⚙️ One-Line Installer (via wget)
+
+Install SUB-FINDER with just one command:
+
+```bash
+wget https://raw.githubusercontent.com/ADIRTTA/SUB-FINDER/main/sub-finder_installer.sh && bash sub-finder_installer.sh
+SUB-FINDER 
+````
+
+
+---
+
 ## 🚀 Usage
 
 ```bash
