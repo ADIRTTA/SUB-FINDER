@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Advanced Subdomain & DNS Status Scanner</b><br>
-  <i>Developed by <a href="https://github.com/ADIRTTA">ADIRTTA</a></i>
+  <i>Developed by <a href="https://github.com/ADIRTTA">BLACK ZERO</a></i>
 </p>
 
 ---
@@ -78,7 +78,7 @@ This is the main launcher file of the tool.
 
 ## 🧠 Author
 
-**ADIRTTA**
+**BLACK ZERO**
 🔗 GitHub: [github.com/ADIRTTA](https://github.com/ADIRTTA)
 📦 Project: [SUB-FINDER](https://github.com/ADIRTTA/SUB-FINDER.git)
 
