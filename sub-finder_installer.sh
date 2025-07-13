@@ -6,7 +6,7 @@
 
 clear
 echo
-echo "🔍 SUB-FINDER INSTALLER by ADIRTTA"
+echo "🔍 SUB-FINDER INSTALLER by BLACK ZERO"
 echo "--------------------------------------"
 sleep 1
 
