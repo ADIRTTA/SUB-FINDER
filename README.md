@@ -47,6 +47,7 @@ Install SUB-FINDER with just one command:
 
 ```bash
 wget https://raw.githubusercontent.com/ADIRTTA/SUB-FINDER/main/sub-finder_installer.sh && bash sub-finder_installer.sh
+chmod +x *
 SUB-FINDER 
 ````
 
